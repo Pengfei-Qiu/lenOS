@@ -1,6 +1,6 @@
 * [中文版](./README_CN.md)
 
-# enOS
+# lenOS
 lenOS is a Lightweight Edge Node Operating System, built on FreeRTOS  
 lenOS surport ESP32/S2/S3...
 
