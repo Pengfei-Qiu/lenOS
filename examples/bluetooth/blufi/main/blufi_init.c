@@ -15,6 +15,7 @@
 #include "esp_bt_main.h"
 #include "esp_bt_device.h"
 #endif
+#include<iostream>
 
 #ifdef CONFIG_BT_NIMBLE_ENABLED
 #include "nimble/nimble_port.h"
